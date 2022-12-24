@@ -28,8 +28,8 @@ st.set_page_config(layout="wide")
 # ============================================ Header introduce ============================================
 st.markdown(
     """
-        # Name: Huynh Viet Tuan Kiet
-        # ID: 20521494
+        # Name: Phan Anh Lộc
+        # ID: 19521766
     """
 )
 
